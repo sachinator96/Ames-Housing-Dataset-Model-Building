@@ -2,7 +2,7 @@
 
 • Performed data cleaning, feature selection and data analysis on various parameters affecting house sale prices
 
-• Implemented Linear Regression, GLM, Classification Tree, Random Forest and Neural Network algorithm models
+• Implemented Linear Regression, GLM, Random Forest and Neural Network algorithm models
 
 • Compared the error rates for all the models and predicted house sale prices for the validation set with minimum errors
 
